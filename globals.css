@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-black text-white;
+    font-family: var(--font-din), sans-serif;
+  }
+}
+
+@layer utilities {
+  .glow-red {
+    transition: all 0.3s ease-out;
+  }
+  .glow-red:hover {
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+    border-color: rgba(255, 0, 0, 0.5);
+  }
+  
+  .text-glow-red {
+    text-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+  }
+}
