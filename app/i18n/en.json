@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "HOME",
+    "specs": "SPECS",
+    "design": "DESIGN",
+    "interior": "INTERIOR",
+    "gallery": "GALLERY"
+  },
+  "hero": {
+    "subtitle": "Perfect aerodynamics. Absolute driver focus.",
+    "cta": "Explore Now",
+    "scroll": "Scroll"
+  },
+  "specs": {
+    "title": "Technical Excellence",
+    "subtitle": "Designed for the track. Refined for the road.",
+    "acceleration": "Acceleration",
+    "topSpeed": "Top Speed",
+    "power": "Power",
+    "weight": "Weight",
+    "accValue": "0-100 km/h",
+    "accDetail": "2.7 seconds",
+    "speedValue": "340 km/h",
+    "speedDetail": "211 mph",
+    "powerValue": "520 HP",
+    "powerDetail": "386 kW",
+    "weightValue": "1,435 kg",
+    "weightDetail": "3,164 lbs",
+    "engine": "Engine",
+    "engineDesc": "4.0-litre naturally aspirated flat-six boxer engine with motorsport-derived technology.",
+    "transmission": "Transmission",
+    "transmissionDesc": "7-speed PDK (Porsche Doppelkupplung) transmission with extremely short shift times.",
+    "aerodynamics": "Aerodynamics",
+    "aerodynamicsDesc": "Active aerodynamics and rear wing with DRS system for maximum downforce."
+  },
+  "design": {
+    "title": "Aerodynamic Perfection",
+    "subtitle": "Form follows function. Every surface wind-tunnel optimized, every detail engineered for maximum downforce and minimum drag.",
+    "carbonBody": "Carbon Fibre Body",
+    "carbonBodyDesc": "Lightweight CFRP construction for optimal performance.",
+    "rearWing": "Active Rear Wing",
+    "rearWingDesc": "DRS system with multiple positions for speed and stability.",
+    "raceChassis": "Racing Chassis",
+    "raceChassisDesc": "Motorsport-derived platform for supreme precision."
+  },
+  "interior": {
+    "title": "Driver-Focused Cockpit",
+    "subtitle": "Every control, every surface designed around the driver. Motorsport-inspired ergonomics meet premium finish for the ultimate driving experience.",
+    "steeringWheel": "RS Sport Steering Wheel",
+    "steeringWheelDesc": "Race-Tex wrapped with adjustable centre marker.",
+    "sportChrono": "Sport Chrono",
+    "sportChronoDesc": "Analog and digital chronometer designed for lap tracking.",
+    "carbonPackage": "Carbon Package",
+    "carbonPackageDesc": "Ultra-lightweight dashboard and console finish.",
+    "bucketSeats": "Bucket Seats",
+    "bucketSeatsDesc": "Perfect lateral support in carbon fibre reinforced plastic (CFRP)."
+  },
+  "carousel": {
+    "title": "Model Gallery",
+    "subtitle": "Luxurious experience in every line",
+    "exploreAll": "Explore All",
+    "911subtitle": "The Sports Car Icon",
+    "taycanSubtitle": "Electric Performance",
+    "cayenneSubtitle": "High-Performance SUV",
+    "panameraSubtitle": "Luxury Sedan"
+  },
+  "timeline": {
+    "title": "The Legacy",
+    "subtitle": "A journey through time and engineering",
+    "1948title": "The Beginning",
+    "1948desc": "Porsche 356, the brand founded by Ferry Porsche",
+    "1963title": "The Icon is Born",
+    "1963desc": "Launch of the legendary 911",
+    "2019title": "Electric Evolution",
+    "2019desc": "Taycan, Porsche's first all-electric sports car",
+    "futureTitle": "Mission X",
+    "futureDesc": "A visionary look at the future of the electric hypercar."
+  },
+  "cta": {
+    "title": "Experience Excellence",
+    "subtitle": "Schedule a test drive or visit our Porsche Centre to discover what makes the GT3 RS truly exceptional.",
+    "configure": "Configure Now",
+    "testDrive": "Book Test Drive",
+    "torque": "MAX TORQUE",
+    "redline": "REDLINE",
+    "downforce": "DOWNFORCE"
+  },
+  "footer": {
+    "tagline": "Engineering excellence and motorsport heritage since 1948.",
+    "disclaimer": "Porsche Redesign Concept — Study project, not affiliated",
+    "models": "Models",
+    "services": "Services",
+    "connect": "Connect",
+    "findDealer": "Find a Dealer",
+    "scheduleService": "Schedule Service",
+    "porscheExclusive": "Porsche Exclusive",
+    "motorsport": "Motorsport",
+    "copyright": "© 2026 Dr. Ing. h.c. F. Porsche AG. All rights reserved.",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  }
+}

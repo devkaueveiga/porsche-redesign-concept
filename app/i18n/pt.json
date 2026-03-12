@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "HOME",
+    "specs": "SPECS",
+    "design": "DESIGN",
+    "interior": "INTERIOR",
+    "gallery": "GALERIA"
+  },
+  "hero": {
+    "subtitle": "A aerodinâmica perfeita. O foco absoluto no piloto.",
+    "cta": "Explore Agora",
+    "scroll": "Scroll"
+  },
+  "specs": {
+    "title": "Excelência Técnica",
+    "subtitle": "Projetado para as pistas. Refinado para as ruas.",
+    "acceleration": "Aceleração",
+    "topSpeed": "Velocidade Máxima",
+    "power": "Potência",
+    "weight": "Peso",
+    "accValue": "0-100 km/h",
+    "accDetail": "2.7 segundos",
+    "speedValue": "340 km/h",
+    "speedDetail": "211 mph",
+    "powerValue": "520 CV",
+    "powerDetail": "386 kW",
+    "weightValue": "1.435 kg",
+    "weightDetail": "3.164 lbs",
+    "engine": "Motor",
+    "engineDesc": "Motor boxer de 6 cilindros naturalmente aspirado de 4.0 litros com tecnologia derivada do automobilismo.",
+    "transmission": "Transmissão",
+    "transmissionDesc": "Transmissão PDK de 7 marchas (Porsche Doppelkupplung) com tempos de mudança extremamente curtos.",
+    "aerodynamics": "Aerodinâmica",
+    "aerodynamicsDesc": "Aero dinâmico ativo e asa traseira com sistema DRS para força descendente máxima."
+  },
+  "design": {
+    "title": "Perfeição Aerodinâmica",
+    "subtitle": "A forma segue a função. Cada superfície otimizada no túnel de vento, cada detalhe projetado para máxima pressão descendente e arrasto mínimo.",
+    "carbonBody": "Carroceria em Fibra de Carbono",
+    "carbonBodyDesc": "Construção CFRP leve para performance ideal.",
+    "rearWing": "Asa Traseira Ativa",
+    "rearWingDesc": "Sistema DRS com múltiplas posições para velocidade e estabilidade.",
+    "raceChassis": "Chassis de Corrida",
+    "raceChassisDesc": "Plataforma derivada do automobilismo para precisão suprema."
+  },
+  "interior": {
+    "title": "Cockpit Focado no Piloto",
+    "subtitle": "Cada controle, cada superfície desenvolvida ao redor de quem dirige. A ergonomia inspirada nas corridas encontra o acabamento premium para a máxima experiência de pilotagem.",
+    "steeringWheel": "Volante Esportivo RS",
+    "steeringWheelDesc": "Forrado em Race-Tex com marcação central ajustável.",
+    "sportChrono": "Sport Chrono",
+    "sportChronoDesc": "Cronômetro analógico e digital projetado para tracking de voltas.",
+    "carbonPackage": "Pacote de Carbono",
+    "carbonPackageDesc": "Acabamento ultraleve do painel e console.",
+    "bucketSeats": "Bancos Concha",
+    "bucketSeatsDesc": "Suporte lateral perfeito em fibra de vidro reforçada (CFRP)."
+  },
+  "carousel": {
+    "title": "Galeria de Modelos",
+    "subtitle": "Experiência luxuosa em cada linha",
+    "exploreAll": "Explorar Todos",
+    "911subtitle": "Ícone dos Carros Esportivos",
+    "taycanSubtitle": "Performance Elétrica",
+    "cayenneSubtitle": "SUV de Alta Performance",
+    "panameraSubtitle": "Sedã de Luxo"
+  },
+  "timeline": {
+    "title": "O Legado",
+    "subtitle": "Uma jornada através do tempo e da engenharia",
+    "1948title": "The Beginning",
+    "1948desc": "Porsche 356, fundação da marca por Ferry Porsche",
+    "1963title": "The Icon is Born",
+    "1963desc": "Lançamento do lendário 911",
+    "2019title": "Electric Evolution",
+    "2019desc": "Taycan, primeiro elétrico da Porsche",
+    "futureTitle": "Mission X",
+    "futureDesc": "Um olhar visionário sobre o futuro do hypercar elétrico."
+  },
+  "cta": {
+    "title": "Experiência de Excelência",
+    "subtitle": "Agende um test drive ou visite nosso Porsche Center para descobrir o que torna o GT3 RS verdadeiramente excepcional.",
+    "configure": "Configure Agora",
+    "testDrive": "Marcar Test Drive",
+    "torque": "TORQUE MÁX",
+    "redline": "REDLINE",
+    "downforce": "DOWNFORCE"
+  },
+  "footer": {
+    "tagline": "Excelência em engenharia e herança do automobilismo desde 1948.",
+    "disclaimer": "Porsche Redesign Concept — Study project, not affiliated",
+    "models": "Modelos",
+    "services": "Serviços",
+    "connect": "Conectar",
+    "findDealer": "Encontrar um Concessionário",
+    "scheduleService": "Agendar Serviço",
+    "porscheExclusive": "Porsche Exclusive",
+    "motorsport": "Motorsport",
+    "copyright": "© 2026 Dr. Ing. h.c. F. Porsche AG. All rights reserved.",
+    "legal": "Legal",
+    "privacy": "Privacidade",
+    "cookies": "Cookies"
+  }
+}
